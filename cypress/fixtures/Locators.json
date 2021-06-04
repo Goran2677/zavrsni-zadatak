@@ -1,0 +1,19 @@
+{
+    "Login" : {
+        "email": "#email",
+        "password": "#userPassword",
+        "submitBtn": ".btn.btn-outline-primary"
+    },
+
+    "Navigation" : {
+        "addProfessor": "li:nth-of-type(6) > .nav-link"
+    },
+
+    "CreateNewProfessor" : {
+        "enterName": "input#input-default",
+        "enterLastName": "input#input-default1",
+        "addImage": ".btn-image",
+        "addImageUrl": "#__BVID__65",
+        "submit": ".btn-secondary"
+    }
+}
